@@ -5,37 +5,37 @@ ikman:i001 ikman:Brand "Toyota";
              ikman:BodyType "Hatchback";
              ikman:EngineCapacity "1000";
              ikman:Mileage "98000";
-             ikman:Price "2600000".
+             ikman:Price "2600000" .
 ikman:i002 ikman:Brand "Toyota"; 
             ikman:Model "Vitz";
-            ikman:ModelYear
-            ikman:Transmission
-            ikman:BodyType
-            ikman:EngineCapacity
-            ikman:Mileage
-            ikman:Price
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1000";
+            ikman:Mileage "10000";
+            ikman:Price "3895000" .
 ikman:i003 ikman:Brand "Toyota"; 
             ikman:Model "Vitz";
-            ikman:ModelYear
-            ikman:Transmission
-            ikman:BodyType
-            ikman:EngineCapacity
-            ikman:Mileage
-            ikman:Price
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1000";
+            ikman:Mileage "15000";
+            ikman:Price "4300000" .
 ikman:i004 ikman:Brand "Toyota"; 
             ikman:Model "Vitz";
-            ikman:ModelYear
-            ikman:Transmission
-            ikman:BodyType
-            ikman:EngineCapacity
-            ikman:Mileage
-            ikman:Price
+            ikman:ModelYear "2008"
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1300";
+            ikman:Mileage "113000";
+            ikman:Price "2950000".
 ikman:i005 ikman:Brand "Toyota"; 
             ikman:Model "Vitz";
             ikman:ModelYear
-            ikman:Transmission
-            ikman:BodyType
-            ikman:EngineCapacity
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1000";
             ikman:Mileage
             ikman:Price
 ikman:i006 ikman:Brand "Toyota";
