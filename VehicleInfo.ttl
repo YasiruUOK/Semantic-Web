@@ -190,15 +190,78 @@ ikman:i024 ikman:Brand "Toyota";
             ikman:EngineCapacity "1500";
             ikman:Mileage "16000";
             ikman:Price "7775000".
-ikman:Brand "Toyota" ikman:Model "Premio"
-ikman:Brand "Toyota" ikman:Model "Aqua"
-ikman:Brand "Toyota" ikman:Model "Prius"
-ikman:Brand "Toyota" ikman:Model "CHR"
-ikman:Brand "Toyota" ikman:Model "Allion"
-ikman:Brand "Suzuki" ikman:Model "Alto"
-ikman:Brand "Suzuki" ikman:Model "Swift"
-ikman:Brand "Suzuki" ikman:Model "Wagon R Stingray"
-ikman:Brand "Suzuki" ikman:Model "Maruti"
+ikman:i025 ikman:Brand "Toyota";
+            ikman:Model "Premio"
+            ikman:ModelYear "2003";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1800";
+            ikman:Mileage "149000";
+            ikman:Price "2875000".
+ikman:i026 ikman:Brand "Toyota" 
+            ikman:Model "Aqua"
+            ikman:ModelYear "2015";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "72000";
+            ikman:Price "2975000".
+ikman:i027 ikman:Brand "Toyota" 
+            ikman:Model "Yaris"
+            ikman:ModelYear "2008";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1300";
+            ikman:Mileage "89000";
+            ikman:Price "3000000".
+ikman:i028 ikman:Brand "Toyota" 
+            ikman:Model "CHR"
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "7300";
+            ikman:Price "7200000".
+ikman:i029 ikman:Brand "Toyota" 
+            ikman:Model "Allion"
+            ikman:ModelYear "2010";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "123000";
+            ikman:Price "4275000".
+ikman:i030 ikman:Brand "Suzuki" 
+            ikman:Model "Alto"
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "800";
+            ikman:Mileage "56000";
+            ikman:Price "1675000".            
+ikman:i031 ikman:Brand "Suzuki" 
+            ikman:Model "Swift"
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1000";
+            ikman:Mileage "12000";
+            ikman:Price "4375000".
+ikman:i032 ikman:Brand "Suzuki" 
+            ikman:Model "Wagon R Stingray"
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "660";
+            ikman:Mileage "34000";
+            ikman:Price "2775000".
+ikman:i033 ikman:Brand "Suzuki" 
+            ikman:Model "Maruti"
+            ikman:ModelYear "2008";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "800";
+            ikman:Mileage "92000";
+            ikman:Price "775000".
 ikman:Brand "Suzuki" ikman:Model "Wagon R"
 ikman:Brand "Suzuki" ikman:Model "Wagon R FZ"
 ikman:Brand "Suzuki" ikman:Model "Sunny"
