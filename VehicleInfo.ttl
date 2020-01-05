@@ -79,7 +79,7 @@ ikman:i010 ikman:Brand "Toyota";
             ikman:Mileage "163000";
             ikman:Price "2990000".
 ikman:i011 ikman:Brand "Toyota";
-            ikman:Model "Axio"
+            ikman:Model "Axio";
             ikman:ModelYear "2007";
             ikman:Transmission "Automatic";
             ikman:BodyType "Sedan";
@@ -87,7 +87,7 @@ ikman:i011 ikman:Brand "Toyota";
             ikman:Mileage "120000";
             ikman:Price "3875000".
 ikman:i012 ikman:Brand "Toyota";
-            ikman:Model "Axio"
+            ikman:Model "Axio";
             ikman:ModelYear "2008";
             ikman:Transmission "Automatic";
             ikman:BodyType "Sedan";
@@ -95,7 +95,7 @@ ikman:i012 ikman:Brand "Toyota";
             ikman:Mileage "90000";
             ikman:Price "4025000".
 ikman:i013 ikman:Brand "Toyota";
-            ikman:Model "Axio"
+            ikman:Model "Axio";
             ikman:ModelYear "2007";
             ikman:Transmission "Automatic";
             ikman:BodyType "Sedan";
@@ -103,7 +103,7 @@ ikman:i013 ikman:Brand "Toyota";
             ikman:Mileage "160000";
             ikman:Price "3450000".
 ikman:i014 ikman:Brand "Toyota";
-            ikman:Model "Axio"
+            ikman:Model "Axio";
             ikman:ModelYear "2012";
             ikman:Transmission "Automatic";
             ikman:BodyType "Sedan";
@@ -111,7 +111,7 @@ ikman:i014 ikman:Brand "Toyota";
             ikman:Mileage "50000";
             ikman:Price "4450000".
 ikman:i015 ikman:Brand "Toyota";
-            ikman:Model "Axio"
+            ikman:Model "Axio";
             ikman:ModelYear "2015";
             ikman:Transmission "Automatic";
             ikman:BodyType "Sedan";
@@ -119,14 +119,13 @@ ikman:i015 ikman:Brand "Toyota";
             ikman:Mileage "30000";
             ikman:Price "4800000".
 ikman:i016 ikman:Brand "Toyota";
-            ikman:Model "Axio"
+            ikman:Model "Axio";
             ikman:ModelYear "2014";
             ikman:Transmission "Automatic";
             ikman:BodyType "Sedan";
             ikman:EngineCapacity "1500";
             ikman:Mileage "58000";
             ikman:Price "4650000".
-ikman:Brand "Toyota" ikman:Model "Axio"
 ikman:Brand "Toyota" ikman:Model "Premio"
 ikman:Brand "Toyota" ikman:Model "Aqua"
 ikman:Brand "Toyota" ikman:Model "Prius"
