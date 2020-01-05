@@ -24,7 +24,7 @@ ikman:i003 ikman:Brand "Toyota";
             ikman:Price "4300000" .
 ikman:i004 ikman:Brand "Toyota"; 
             ikman:Model "Vitz";
-            ikman:ModelYear "2008"
+            ikman:ModelYear "2008";
             ikman:Transmission "Automatic";
             ikman:BodyType "Hatchback";
             ikman:EngineCapacity "1300";
