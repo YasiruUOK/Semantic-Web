@@ -39,13 +39,45 @@ ikman:i005 ikman:Brand "Toyota";
             ikman:Mileage "6000";
             ikman:Price "4525000" .
 ikman:i006 ikman:Brand "Toyota";
-            ikman:Model "Corolla"
-            ikman:ModelYear
-            ikman:Transmission
-            ikman:BodyType
-            ikman:EngineCapacity
-            ikman:Mileage
-            ikman:Price
+            ikman:Model "Corolla";
+            ikman:ModelYear "2008";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Saloon";
+            ikman:EngineCapacity "1590";
+            ikman:Mileage "111500";
+            ikman:Price "3050000" .
+ikman:i007 ikman:Brand "Toyota";
+            ikman:Model "Corolla";
+            ikman:ModelYear "1996";
+            ikman:Transmission "Manual";
+            ikman:BodyType "Saloon";
+            ikman:EngineCapacity "800";
+            ikman:Mileage "155000";
+            ikman:Price "1595000" .
+ikman:i008 ikman:Brand "Toyota";
+            ikman:Model "Corolla";
+            ikman:ModelYear "1987";
+            ikman:Transmission "Manual";
+            ikman:BodyType "Station wagon";
+            ikman:EngineCapacity "1400";
+            ikman:Mileage "275000"; 
+            ikman:Price "800000" .
+ikman:i009 ikman:Brand "Toyota";
+            ikman:Model "Corolla";
+            ikman:ModelYear "1986";
+            ikman:Transmission "Manual"; 
+            ikman:BodyType "Saloon";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "235000";
+            ikman:Price "760000" .
+ikman:i010 ikman:Brand "Toyota";
+            ikman:Model "Corolla";
+            ikman:ModelYear "2000";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Saloon"; 
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "163000";
+            ikman:Price "2990000".
 ikman:Brand "Toyota" ikman:Model "Axio"
 ikman:Brand "Toyota" ikman:Model "Premio"
 ikman:Brand "Toyota" ikman:Model "Aqua"
