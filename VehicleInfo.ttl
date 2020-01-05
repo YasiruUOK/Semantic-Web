@@ -1,0 +1,62 @@
+ikman:i001 ikman:Brand "Toyota";
+            ikman:Model "Vitz";
+            ikman:ModelYear "2008";
+             ikman:Transmission "Automatic";
+             ikman:BodyType "Hatchback";
+             ikman:EngineCapacity "1000";
+             ikman:Mileage "98000".
+ikman:i002 ikman:Brand "Toyota"; 
+            ikman:Model "Vitz";
+            ikman:ModelYear
+            ikman:Transmission
+            ikman:BodyType
+            ikman:EngineCapacity
+            ikman:Mileage
+ikman:i003 ikman:Brand "Toyota"; 
+            ikman:Model "Vitz";
+            ikman:ModelYear
+            ikman:Transmission
+            ikman:BodyType
+            ikman:EngineCapacity
+            ikman:Mileage
+ikman:i004 ikman:Brand "Toyota"; 
+            ikman:Model "Vitz";
+            ikman:ModelYear
+            ikman:Transmission
+            ikman:BodyType
+            ikman:EngineCapacity
+            ikman:Mileage
+ikman:i005 ikman:Brand "Toyota"; 
+            ikman:Model "Vitz";
+            ikman:ModelYear
+            ikman:Transmission
+            ikman:BodyType
+            ikman:EngineCapacity
+            ikman:Mileage
+ikman:i006 ikman:Brand "Toyota";
+            ikman:Model "Corolla"
+            ikman:ModelYear
+            ikman:Transmission
+            ikman:BodyType
+            ikman:EngineCapacity
+            ikman:Mileage
+ikman:Brand "Toyota" ikman:Model "Axio"
+ikman:Brand "Toyota" ikman:Model "Premio"
+ikman:Brand "Toyota"yota ikman:Model "Aqua"
+ikman:Brand "Toyota" ikman:Model "Prius"
+ikman:Brand "Toyota" ikman:Model "CHR"
+ikman:Brand "Toyota" ikman:Model "Allion"
+ikman:Brand "Suzuki" ikman:Model "Alto"
+ikman:Brand "Suzuki" ikman:Model "Swift"
+ikman:Brand "Suzuki" ikman:Model "Wagon R Stingray"
+ikman:Brand "Suzuki" ikman:Model "Maruti"
+ikman:Brand "Suzuki" ikman:Model "Wagon R"
+ikman:Brand "Suzuki" ikman:Model "Wagon R FZ"
+ikman:Brand "Suzuki" ikman:Model "Sunny"
+ikman:Brand "Suzuki" ikman:Model "March"
+ikman:Brand "Suzuki" ikman:Model "X-Trail"
+ikman:Brand "Suzuki" ikman:Model "Leaf"
+ikman:Brand "Suzuki" ikman:Model "Vezel"
+ikman:Brand "Suzuki" ikman:Model "Fit"
+ikman:Brand "Suzuki" ikman:Model "Civic"
+ikman:Brand "Suzuki" ikman:Model "CRV"
