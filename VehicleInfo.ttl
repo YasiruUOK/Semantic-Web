@@ -198,77 +198,147 @@ ikman:i025 ikman:Brand "Toyota";
             ikman:EngineCapacity "1800";
             ikman:Mileage "149000";
             ikman:Price "2875000".
-ikman:i026 ikman:Brand "Toyota" 
-            ikman:Model "Aqua"
+ikman:i026 ikman:Brand "Toyota"; 
+            ikman:Model "Aqua";
             ikman:ModelYear "2015";
             ikman:Transmission "Automatic";
             ikman:BodyType "Hatchback";
             ikman:EngineCapacity "1500";
             ikman:Mileage "72000";
             ikman:Price "2975000".
-ikman:i027 ikman:Brand "Toyota" 
-            ikman:Model "Yaris"
+ikman:i027 ikman:Brand "Toyota"; 
+            ikman:Model "Yaris";
             ikman:ModelYear "2008";
             ikman:Transmission "Automatic";
             ikman:BodyType "Sedan";
             ikman:EngineCapacity "1300";
             ikman:Mileage "89000";
             ikman:Price "3000000".
-ikman:i028 ikman:Brand "Toyota" 
-            ikman:Model "CHR"
+ikman:i028 ikman:Brand "Toyota"; 
+            ikman:Model "CHR";
             ikman:ModelYear "2018";
             ikman:Transmission "Automatic";
             ikman:BodyType "Hatchback";
             ikman:EngineCapacity "1500";
             ikman:Mileage "7300";
             ikman:Price "7200000".
-ikman:i029 ikman:Brand "Toyota" 
-            ikman:Model "Allion"
+ikman:i029 ikman:Brand "Toyota"; 
+            ikman:Model "Allion";
             ikman:ModelYear "2010";
             ikman:Transmission "Automatic";
             ikman:BodyType "Sedan";
             ikman:EngineCapacity "1500";
             ikman:Mileage "123000";
             ikman:Price "4275000".
-ikman:i030 ikman:Brand "Suzuki" 
-            ikman:Model "Alto"
+ikman:i030 ikman:Brand "Suzuki";
+            ikman:Model "Alto";
             ikman:ModelYear "2018";
             ikman:Transmission "Automatic";
             ikman:BodyType "Hatchback";
             ikman:EngineCapacity "800";
             ikman:Mileage "56000";
             ikman:Price "1675000".            
-ikman:i031 ikman:Brand "Suzuki" 
-            ikman:Model "Swift"
+ikman:i031 ikman:Brand "Suzuki"; 
+            ikman:Model "Swift";
             ikman:ModelYear "2018";
             ikman:Transmission "Automatic";
             ikman:BodyType "Sedan";
             ikman:EngineCapacity "1000";
             ikman:Mileage "12000";
             ikman:Price "4375000".
-ikman:i032 ikman:Brand "Suzuki" 
-            ikman:Model "Wagon R Stingray"
+ikman:i032 ikman:Brand "Suzuki"; 
+            ikman:Model "Wagon R Stingray";
             ikman:ModelYear "2018";
             ikman:Transmission "Automatic";
             ikman:BodyType "Hatchback";
             ikman:EngineCapacity "660";
             ikman:Mileage "34000";
             ikman:Price "2775000".
-ikman:i033 ikman:Brand "Suzuki" 
-            ikman:Model "Maruti"
+ikman:i033 ikman:Brand "Suzuki";
+            ikman:Model "Maruti";
             ikman:ModelYear "2008";
             ikman:Transmission "Automatic";
             ikman:BodyType "Hatchback";
             ikman:EngineCapacity "800";
             ikman:Mileage "92000";
             ikman:Price "775000".
-ikman:Brand "Suzuki" ikman:Model "Wagon R"
-ikman:Brand "Suzuki" ikman:Model "Wagon R FZ"
-ikman:Brand "Suzuki" ikman:Model "Sunny"
-ikman:Brand "Suzuki" ikman:Model "March"
-ikman:Brand "Suzuki" ikman:Model "X-Trail"
-ikman:Brand "Suzuki" ikman:Model "Leaf"
-ikman:Brand "Suzuki" ikman:Model "Vezel"
-ikman:Brand "Suzuki" ikman:Model "Fit"
-ikman:Brand "Suzuki" ikman:Model "Civic"
-ikman:Brand "Suzuki" ikman:Model "CRV"
+ikman:i034 ikman:Brand "Suzuki"; 
+            ikman:Model "Wagon R";
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "660";
+            ikman:Mileage "23000";
+            ikman:Price "2995000".
+ikman:i035 ikman:Brand "Suzuki"; 
+            ikman:Model "Wagon R FZ";
+            ikman:ModelYear "2017";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "660";
+            ikman:Mileage "45000";
+            ikman:Price "2650000".
+ikman:i036 ikman:Brand "Nissan"; 
+            ikman:Model "Trad Sunny";
+            ikman:ModelYear "1994";
+            ikman:Transmission "Manual";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "2320000";
+            ikman:Price "775000".
+ikman:i037 ikman:Brand "Nissan"; 
+            ikman:Model "March k11";
+            ikman:ModelYear "2001";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "990";
+            ikman:Mileage "192000";
+            ikman:Price "1575000".
+ikman:i038 ikman:Brand "Nissan" ;
+            ikman:Model "X-Trail";
+             ikman:ModelYear "2003";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "2500";
+            ikman:Mileage "312000";
+            ikman:Price "2775000".
+ikman:i039 ikman:Brand "Nissan" ;
+            ikman:Model "Leaf";
+             ikman:ModelYear "2014";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "0";
+            ikman:Mileage "65000";
+            ikman:Price "1525000".
+ikman:i040 ikman:Brand "Honda"; 
+            ikman:Model "Vezel";
+             ikman:ModelYear "2015";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "143000";
+            ikman:Price "4250000".
+ikman:i041 ikman:Brand "Honda" ;
+            ikman:Model "Fit";
+             ikman:ModelYear "2013";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "112000";
+            ikman:Price "2975000".
+ikman:i042 ikman:Brand "Honda;" 
+            ikman:Model "Civic";
+             ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1000";
+            ikman:Mileage "12300";
+            ikman:Price "6525000".
+ikman:i043 ikman:Brand "Honda" ;
+            ikman:Model "CRV";
+             ikman:ModelYear "2004";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "196000";
+            ikman:Price "2950000".
