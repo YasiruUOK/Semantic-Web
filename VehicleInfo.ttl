@@ -126,6 +126,70 @@ ikman:i016 ikman:Brand "Toyota";
             ikman:EngineCapacity "1500";
             ikman:Mileage "58000";
             ikman:Price "4650000".
+ikman:i017 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2007";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "108000";
+            ikman:Price "4850000".
+ikman:i018 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2007";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "138000";
+            ikman:Price "5050000".
+ikman:i019 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2007";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1800";
+            ikman:Mileage "98000";
+            ikman:Price "4750000".
+ikman:i020 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2010";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "83000";
+            ikman:Price "5450000".
+ikman:i021 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2013";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "103000";
+            ikman:Price "5675000".
+ikman:i022 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2015";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "57000";
+            ikman:Price "5975000".
+ikman:i023 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2016";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "46000";
+            ikman:Price "6275000".
+ikman:i024 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "16000";
+            ikman:Price "7775000".
 ikman:Brand "Toyota" ikman:Model "Premio"
 ikman:Brand "Toyota" ikman:Model "Aqua"
 ikman:Brand "Toyota" ikman:Model "Prius"
