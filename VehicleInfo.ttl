@@ -4,7 +4,8 @@ ikman:i001 ikman:Brand "Toyota";
              ikman:Transmission "Automatic";
              ikman:BodyType "Hatchback";
              ikman:EngineCapacity "1000";
-             ikman:Mileage "98000".
+             ikman:Mileage "98000";
+             ikman:Price "2600000".
 ikman:i002 ikman:Brand "Toyota"; 
             ikman:Model "Vitz";
             ikman:ModelYear
@@ -12,6 +13,7 @@ ikman:i002 ikman:Brand "Toyota";
             ikman:BodyType
             ikman:EngineCapacity
             ikman:Mileage
+            ikman:Price
 ikman:i003 ikman:Brand "Toyota"; 
             ikman:Model "Vitz";
             ikman:ModelYear
@@ -19,6 +21,7 @@ ikman:i003 ikman:Brand "Toyota";
             ikman:BodyType
             ikman:EngineCapacity
             ikman:Mileage
+            ikman:Price
 ikman:i004 ikman:Brand "Toyota"; 
             ikman:Model "Vitz";
             ikman:ModelYear
@@ -26,6 +29,7 @@ ikman:i004 ikman:Brand "Toyota";
             ikman:BodyType
             ikman:EngineCapacity
             ikman:Mileage
+            ikman:Price
 ikman:i005 ikman:Brand "Toyota"; 
             ikman:Model "Vitz";
             ikman:ModelYear
@@ -33,6 +37,7 @@ ikman:i005 ikman:Brand "Toyota";
             ikman:BodyType
             ikman:EngineCapacity
             ikman:Mileage
+            ikman:Price
 ikman:i006 ikman:Brand "Toyota";
             ikman:Model "Corolla"
             ikman:ModelYear
@@ -40,6 +45,7 @@ ikman:i006 ikman:Brand "Toyota";
             ikman:BodyType
             ikman:EngineCapacity
             ikman:Mileage
+            ikman:Price
 ikman:Brand "Toyota" ikman:Model "Axio"
 ikman:Brand "Toyota" ikman:Model "Premio"
 ikman:Brand "Toyota"yota ikman:Model "Aqua"
