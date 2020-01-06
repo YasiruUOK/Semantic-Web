@@ -1,62 +1,345 @@
+@prefix ikman: <https://ikman.lk/en/ads/sri-lanka/cars#> .
 ikman:i001 ikman:Brand "Toyota";
             ikman:Model "Vitz";
             ikman:ModelYear "2008";
              ikman:Transmission "Automatic";
              ikman:BodyType "Hatchback";
              ikman:EngineCapacity "1000";
-             ikman:Mileage "98000".
+             ikman:Mileage "98000";
+             ikman:Price "2600000" .
 ikman:i002 ikman:Brand "Toyota"; 
             ikman:Model "Vitz";
-            ikman:ModelYear
-            ikman:Transmission
-            ikman:BodyType
-            ikman:EngineCapacity
-            ikman:Mileage
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1000";
+            ikman:Mileage "10000";
+            ikman:Price "3895000" .
 ikman:i003 ikman:Brand "Toyota"; 
             ikman:Model "Vitz";
-            ikman:ModelYear
-            ikman:Transmission
-            ikman:BodyType
-            ikman:EngineCapacity
-            ikman:Mileage
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1000";
+            ikman:Mileage "15000";
+            ikman:Price "4300000" .
 ikman:i004 ikman:Brand "Toyota"; 
             ikman:Model "Vitz";
-            ikman:ModelYear
-            ikman:Transmission
-            ikman:BodyType
-            ikman:EngineCapacity
-            ikman:Mileage
+            ikman:ModelYear "2008";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1300";
+            ikman:Mileage "113000";
+            ikman:Price "2950000".
 ikman:i005 ikman:Brand "Toyota"; 
             ikman:Model "Vitz";
-            ikman:ModelYear
-            ikman:Transmission
-            ikman:BodyType
-            ikman:EngineCapacity
-            ikman:Mileage
+            ikman:ModelYear "2019";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1000";
+            ikman:Mileage "6000";
+            ikman:Price "4525000" .
 ikman:i006 ikman:Brand "Toyota";
-            ikman:Model "Corolla"
-            ikman:ModelYear
-            ikman:Transmission
-            ikman:BodyType
-            ikman:EngineCapacity
-            ikman:Mileage
-ikman:Brand "Toyota" ikman:Model "Axio"
-ikman:Brand "Toyota" ikman:Model "Premio"
-ikman:Brand "Toyota"yota ikman:Model "Aqua"
-ikman:Brand "Toyota" ikman:Model "Prius"
-ikman:Brand "Toyota" ikman:Model "CHR"
-ikman:Brand "Toyota" ikman:Model "Allion"
-ikman:Brand "Suzuki" ikman:Model "Alto"
-ikman:Brand "Suzuki" ikman:Model "Swift"
-ikman:Brand "Suzuki" ikman:Model "Wagon R Stingray"
-ikman:Brand "Suzuki" ikman:Model "Maruti"
-ikman:Brand "Suzuki" ikman:Model "Wagon R"
-ikman:Brand "Suzuki" ikman:Model "Wagon R FZ"
-ikman:Brand "Suzuki" ikman:Model "Sunny"
-ikman:Brand "Suzuki" ikman:Model "March"
-ikman:Brand "Suzuki" ikman:Model "X-Trail"
-ikman:Brand "Suzuki" ikman:Model "Leaf"
-ikman:Brand "Suzuki" ikman:Model "Vezel"
-ikman:Brand "Suzuki" ikman:Model "Fit"
-ikman:Brand "Suzuki" ikman:Model "Civic"
-ikman:Brand "Suzuki" ikman:Model "CRV"
+            ikman:Model "Corolla";
+            ikman:ModelYear "2008";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Saloon";
+            ikman:EngineCapacity "1590";
+            ikman:Mileage "111500";
+            ikman:Price "3050000" .
+ikman:i007 ikman:Brand "Toyota";
+            ikman:Model "Corolla";
+            ikman:ModelYear "1996";
+            ikman:Transmission "Manual";
+            ikman:BodyType "Saloon";
+            ikman:EngineCapacity "800";
+            ikman:Mileage "155000";
+            ikman:Price "1595000" .
+ikman:i008 ikman:Brand "Toyota";
+            ikman:Model "Corolla";
+            ikman:ModelYear "1987";
+            ikman:Transmission "Manual";
+            ikman:BodyType "Station wagon";
+            ikman:EngineCapacity "1400";
+            ikman:Mileage "275000"; 
+            ikman:Price "800000" .
+ikman:i009 ikman:Brand "Toyota";
+            ikman:Model "Corolla";
+            ikman:ModelYear "1986";
+            ikman:Transmission "Manual"; 
+            ikman:BodyType "Saloon";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "235000";
+            ikman:Price "760000" .
+ikman:i010 ikman:Brand "Toyota";
+            ikman:Model "Corolla";
+            ikman:ModelYear "2000";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Saloon"; 
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "163000";
+            ikman:Price "2990000".
+ikman:i011 ikman:Brand "Toyota";
+            ikman:Model "Axio";
+            ikman:ModelYear "2007";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "120000";
+            ikman:Price "3875000".
+ikman:i012 ikman:Brand "Toyota";
+            ikman:Model "Axio";
+            ikman:ModelYear "2008";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "90000";
+            ikman:Price "4025000".
+ikman:i013 ikman:Brand "Toyota";
+            ikman:Model "Axio";
+            ikman:ModelYear "2007";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "160000";
+            ikman:Price "3450000".
+ikman:i014 ikman:Brand "Toyota";
+            ikman:Model "Axio";
+            ikman:ModelYear "2012";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "50000";
+            ikman:Price "4450000".
+ikman:i015 ikman:Brand "Toyota";
+            ikman:Model "Axio";
+            ikman:ModelYear "2015";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "30000";
+            ikman:Price "4800000".
+ikman:i016 ikman:Brand "Toyota";
+            ikman:Model "Axio";
+            ikman:ModelYear "2014";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "58000";
+            ikman:Price "4650000".
+ikman:i017 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2007";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "108000";
+            ikman:Price "4850000".
+ikman:i018 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2007";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "138000";
+            ikman:Price "5050000".
+ikman:i019 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2007";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1800";
+            ikman:Mileage "98000";
+            ikman:Price "4750000".
+ikman:i020 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2010";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "83000";
+            ikman:Price "5450000".
+ikman:i021 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2013";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "103000";
+            ikman:Price "5675000".
+ikman:i022 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2015";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "57000";
+            ikman:Price "5975000".
+ikman:i023 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2016";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "46000";
+            ikman:Price "6275000".
+ikman:i024 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "16000";
+            ikman:Price "7775000".
+ikman:i025 ikman:Brand "Toyota";
+            ikman:Model "Premio";
+            ikman:ModelYear "2003";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1800";
+            ikman:Mileage "149000";
+            ikman:Price "2875000".
+ikman:i026 ikman:Brand "Toyota"; 
+            ikman:Model "Aqua";
+            ikman:ModelYear "2015";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "72000";
+            ikman:Price "2975000".
+ikman:i027 ikman:Brand "Toyota"; 
+            ikman:Model "Yaris";
+            ikman:ModelYear "2008";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1300";
+            ikman:Mileage "89000";
+            ikman:Price "3000000".
+ikman:i028 ikman:Brand "Toyota"; 
+            ikman:Model "CHR";
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "7300";
+            ikman:Price "7200000".
+ikman:i029 ikman:Brand "Toyota"; 
+            ikman:Model "Allion";
+            ikman:ModelYear "2010";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "123000";
+            ikman:Price "4275000".
+ikman:i030 ikman:Brand "Suzuki";
+            ikman:Model "Alto";
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "800";
+            ikman:Mileage "56000";
+            ikman:Price "1675000".            
+ikman:i031 ikman:Brand "Suzuki"; 
+            ikman:Model "Swift";
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1000";
+            ikman:Mileage "12000";
+            ikman:Price "4375000".
+ikman:i032 ikman:Brand "Suzuki"; 
+            ikman:Model "Wagon R Stingray";
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "660";
+            ikman:Mileage "34000";
+            ikman:Price "2775000".
+ikman:i033 ikman:Brand "Suzuki";
+            ikman:Model "Maruti";
+            ikman:ModelYear "2008";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "800";
+            ikman:Mileage "92000";
+            ikman:Price "775000".
+ikman:i034 ikman:Brand "Suzuki"; 
+            ikman:Model "Wagon R";
+            ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "660";
+            ikman:Mileage "23000";
+            ikman:Price "2995000".
+ikman:i035 ikman:Brand "Suzuki"; 
+            ikman:Model "Wagon R FZ";
+            ikman:ModelYear "2017";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "660";
+            ikman:Mileage "45000";
+            ikman:Price "2650000".
+ikman:i036 ikman:Brand "Nissan"; 
+            ikman:Model "Trad Sunny";
+            ikman:ModelYear "1994";
+            ikman:Transmission "Manual";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "2320000";
+            ikman:Price "775000".
+ikman:i037 ikman:Brand "Nissan"; 
+            ikman:Model "March k11";
+            ikman:ModelYear "2001";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "990";
+            ikman:Mileage "192000";
+            ikman:Price "1575000".
+ikman:i038 ikman:Brand "Nissan" ;
+            ikman:Model "X-Trail";
+             ikman:ModelYear "2003";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "2500";
+            ikman:Mileage "312000";
+            ikman:Price "2775000".
+ikman:i039 ikman:Brand "Nissan" ;
+            ikman:Model "Leaf";
+             ikman:ModelYear "2014";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "0";
+            ikman:Mileage "65000";
+            ikman:Price "1525000".
+ikman:i040 ikman:Brand "Honda"; 
+            ikman:Model "Vezel";
+             ikman:ModelYear "2015";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "143000";
+            ikman:Price "4250000".
+ikman:i041 ikman:Brand "Honda" ;
+            ikman:Model "Fit";
+             ikman:ModelYear "2013";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "112000";
+            ikman:Price "2975000".
+ikman:i042 ikman:Brand "Honda";
+            ikman:Model "Civic";
+             ikman:ModelYear "2018";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Sedan";
+            ikman:EngineCapacity "1000";
+            ikman:Mileage "12300";
+            ikman:Price "6525000".
+ikman:i043 ikman:Brand "Honda" ;
+            ikman:Model "CRV";
+             ikman:ModelYear "2004";
+            ikman:Transmission "Automatic";
+            ikman:BodyType "Hatchback";
+            ikman:EngineCapacity "1500";
+            ikman:Mileage "196000";
+            ikman:Price "2950000".
