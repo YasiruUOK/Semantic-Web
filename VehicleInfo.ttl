@@ -191,7 +191,7 @@ ikman:i024 ikman:Brand "Toyota";
             ikman:Mileage "16000";
             ikman:Price "7775000".
 ikman:i025 ikman:Brand "Toyota";
-            ikman:Model "Premio"
+            ikman:Model "Premio";
             ikman:ModelYear "2003";
             ikman:Transmission "Automatic";
             ikman:BodyType "Sedan";
@@ -326,7 +326,7 @@ ikman:i041 ikman:Brand "Honda" ;
             ikman:EngineCapacity "1500";
             ikman:Mileage "112000";
             ikman:Price "2975000".
-ikman:i042 ikman:Brand "Honda;" 
+ikman:i042 ikman:Brand "Honda";
             ikman:Model "Civic";
              ikman:ModelYear "2018";
             ikman:Transmission "Automatic";
