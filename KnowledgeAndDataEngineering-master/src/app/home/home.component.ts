@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent {
-  sparqlEndpoint: string = "http://localhost:3030/Vehical/sparql";
+  sparqlEndpoint: string = "http://localhost:3030/Vehicle/sparql";
   sparqlEndpoint1: string = "http://localhost:3030/Apartment/query";
 
   data = { head: { vars: [] }, results: { bindings: [] } }
